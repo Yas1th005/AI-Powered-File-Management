@@ -113,6 +113,14 @@ Trial3/
 
 ## 🖼️ Screenshots
 
-| AI Terminal  | AI File Management | AI File Search |
-| ------------ | ------------------ | -------------- |
-| [screenshot] | [screenshot]       | [screenshot]   |
+### AI Terminal
+![AI Terminal Interface](https://github.com/user-attachments/assets/6d3b1c81-ccd7-47f3-9b83-f3c0d32998a7)
+
+### AI File Management
+![AI File Management Interface](https://github.com/user-attachments/assets/b35ecfdf-364e-40cd-af1f-832623a93626)
+
+### AI File Search
+![AI File Search Interface](https://github.com/user-attachments/assets/52ea6050-dd1a-4a1e-8a37-897438b6f92a)
+
+### Trial3/Home Directory View
+![Home Directory Structure](https://github.com/user-attachments/assets/b43bfdbb-c3fe-479b-9656-c73798e20eda)
